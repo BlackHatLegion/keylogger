@@ -36,6 +36,11 @@ git clone https://github.com/seu_usuario/keylogger-educacional.git
 cd keylogger-educacional
 ```
 
+- 2.1. Crie uma venv utilizando:
+```bash
+python -m venv env
+```
+
 3. Instale as dependências do Python:
 
 ```bash
